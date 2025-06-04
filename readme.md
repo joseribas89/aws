@@ -27,7 +27,7 @@ Este projeto em Python possui um script simples que utiliza a biblioteca `boto3`
 
 ## Uso
 
-O script `listar_ec2.py` (não incluído neste repositório de exemplo) se conecta à AWS e lista todas as instâncias EC2, exibindo os principais atributos.
+O script `listar_ec2.py` se conecta à AWS e lista todas as instâncias EC2, exibindo os principais atributos.
 
 Execute o script da seguinte forma:
 
